@@ -1,0 +1,19 @@
+﻿TOPIC
+    about_RoslynDom_Version
+
+VERSION
+    You are running version 1.0 of the RolsynDom module
+
+CHANGE LOG
+  Description
+    The changelog documents the changes in each release of this
+    PowerShell module.
+
+1.0.0 
+  Initial Release
+
+SEE ALSO
+    https://github.com/KathleenDollard/RoslynDOM
+    https://github.com/beefarino/RoslynDOMProvider
+    http://www.codeowls.com/
+    about_RoslynDom
